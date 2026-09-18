@@ -2,7 +2,7 @@
 
 Portfólio acadêmico desenvolvido para a disciplina de **Programação Web (GAC116)** da **Universidade Federal de Lavras (UFLA)**. O objetivo deste projeto é apresentar minha trajetória acadêmica, objetivos profissionais, habilidades e principais projetos na área de Ciência da Computação, com foco em **Dados e Desenvolvimento de Software**.
 
-🔗 **Acesse o site no ar:** [GitHub Pages](https://mariaritaresende.github.io/NOME-DO-SEU-REPOSITORIO) *(substitua pelo seu link do Pages)*
+🔗 **Acesse o site no ar:** [GitHub Pages](https://mariaritaresende.github.io/pagina_pessoal) 
 
 ---
 
